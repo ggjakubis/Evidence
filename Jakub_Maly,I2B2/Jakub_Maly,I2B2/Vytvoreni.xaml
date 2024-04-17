@@ -1,0 +1,25 @@
+﻿<Window x:Class="Jakub_Maly_I2B2.Vytvoreni"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Jakub_Maly_I2B2"
+        mc:Ignorable="d"
+        Title="Vytvoreni" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="691*"/>
+            <ColumnDefinition Width="109*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="BT_Ulozit" Content="Uložit" HorizontalAlignment="Left" Margin="102,295,0,0" VerticalAlignment="Top" Height="42" Width="145" Click="BT_Ulozit_Click"/>
+        <TextBox x:Name="Text_jmeno" HorizontalAlignment="Left" Margin="102,44,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130" Height="32"/>
+        <TextBox x:Name="Text_prijmeni" HorizontalAlignment="Left" Margin="102,94,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130" Height="32"/>
+        <TextBox x:Name="Text_narozeni" HorizontalAlignment="Left" Margin="117,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130" Height="32"/>
+        <Label HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top" Width="87">
+            <Label Content="Jméno:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87"/>
+        </Label>
+        <Label Content="Příjmení:" HorizontalAlignment="Left" Margin="10,97,0,0" VerticalAlignment="Top" Width="87"/>
+        <Label Content="Datum narození:" HorizontalAlignment="Left" Margin="10,153,0,0" VerticalAlignment="Top" Width="102"/>
+
+    </Grid>
+</Window>

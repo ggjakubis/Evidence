@@ -1,0 +1,14 @@
+﻿<Window x:Class="Jakub_Maly_I2B2.Smazat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Jakub_Maly_I2B2"
+        mc:Ignorable="d"
+        Title="Smazat" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BT_smazat" Content="Smazat" HorizontalAlignment="Left" Margin="506,240,0,0" VerticalAlignment="Top" Height="50" Width="105" Click="BT_smazat_Click"/>
+        <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,5,467,5"/>
+
+    </Grid>
+</Window>

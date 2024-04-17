@@ -1,0 +1,7 @@
+C:\Users\22IB20_MALY\source\repos\Oprava_Test\Oprava_Test\obj\Debug\net7.0-windows\Oprava_Test.csproj.AssemblyReference.cache
+C:\Users\22IB20_MALY\source\repos\Oprava_Test\Oprava_Test\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\22IB20_MALY\source\repos\Oprava_Test\Oprava_Test\obj\Debug\net7.0-windows\Okna\DialogEdit.g.cs
+C:\Users\22IB20_MALY\source\repos\Oprava_Test\Oprava_Test\obj\Debug\net7.0-windows\Okna\DialogPridat.g.cs
+C:\Users\22IB20_MALY\source\repos\Oprava_Test\Oprava_Test\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\22IB20_MALY\source\repos\Oprava_Test\Oprava_Test\obj\Debug\net7.0-windows\Oprava_Test_MarkupCompile.cache
+C:\Users\22IB20_MALY\source\repos\Oprava_Test\Oprava_Test\obj\Debug\net7.0-windows\Oprava_Test_MarkupCompile.lref
